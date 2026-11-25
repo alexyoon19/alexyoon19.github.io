@@ -50,7 +50,7 @@ HONORS = [
      'Given for excellence in economics coursework and creativity in the senior thesis. Awarded for <i>Green Trade</i>. <a href="https://socialsciences.uchicago.edu/node/32896">Department announcement</a>.'),
     ('2024', 'Manley Thompson Book Prize', 'Department of Philosophy, University of Chicago',
      'Awarded for the senior thesis, <i>Beyond Scientific Validity</i>.'),
-    ('2024', 'First student to win the thesis prizes in both economics and philosophy', 'University of Chicago', ''),
+    ('2024', 'First student to win the top thesis prize in both economics and philosophy', 'University of Chicago', ''),
     ('2024', 'Special honors in economics and in philosophy', 'University of Chicago', ''),
     ('2020–24', 'Odyssey Scholar', 'University of Chicago', ''),
 ]
