@@ -1,0 +1,771 @@
+{
+"blocks": [
+{
+"type": "dedication",
+"html": "<i>To Professor Pippin, who has been a fundamental part of my wonderful UChicago experience.</i> <i>Thank you for your wisdom, guidance, and mentorship, in both philosophy and life.</i>"
+},
+{
+"type": "dedication",
+"html": "<i>To Professors Ben Callard, Eliza Little, Robert Richards, Daniel Brudney, Jonathan Lear, and Lorraine Daston,</i> <i>each of whom has powerfully enriched my exploration and understanding of philosophy.</i>"
+},
+{
+"type": "h2",
+"html": "Introduction"
+},
+{
+"type": "p",
+"html": "Once Socrates ingested his hemlock after defiantly stating that the “unexamined life was not worth living,” the Western philosophical canon’s unshakeable bond with the pursuit of universally valid knowledge commenced.<sup class=\"fnref\"><a href=\"#fn1\" id=\"fnref1\">1</a></sup> A love of universal reason, love of wisdom, love of knowledge, love of forms, in which the theoretical man pursues reality as such, the good as such, truth as such, and the virtues as such—that commitment to universal validity, the conforming of our propositions to absolute truth in its content, may be traced back to Socrates. The creator of the Socratic method did not fear death; he welcomed it, if his other option was to live without the pursuit of his philosophy, the search for true reality in the Forms. Thus, “examination” in philosophy has taken on various forms of the Socratic original, advocating for more rigor and correctness as modernity began. Declaring “I know that I know nothing” and subsequently dedicating oneself to pursuing the eternal virtues as such and objective knowledge as such via pure intellect would lead to a more “virtuous life.”<sup class=\"fnref\"><a href=\"#fn2\" id=\"fnref2\">2</a></sup> Philosophers of later eras—Aquinas, Descartes, Hobbes, and Kant, to name a few—endorse this systematic form of philosophical science: the search for the universal essence of the virtues and reality that transcend the mere physical, constituting a permanent, absolute metaphysical doctrine.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "And so, it is perhaps no surprise that Socrates had a distaste for artists, poets, and rhetoricians. He is quoted in Plato’s <i>Republic</i> stating that “the poet is like the painter in two ways: first he paints an inferior degree of truth, and secondly, he is concerned with an inferior part of the soul. He indulges the feelings, while he enfeebles the reason; and we refuse to allow him to have authority over the mind of man; for he has no measure of greater and less, and is a maker of images and very far gone from truth.”<sup class=\"fnref\"><a href=\"#fn3\" id=\"fnref3\">3</a></sup> In claiming that art, literature, poetry, and the mimetic arts create “a product that is far removed from truth in the accomplishment of its task,” Socrates dismisses its importance and role from his perfect city.<sup class=\"fnref\"><a href=\"#fn4\" id=\"fnref4\">4</a></sup> His judgment damns the arts to be of service to “higher pursuits” the Republic: “if they imitate at all, they should imitate from youth upward only those characters which are suitable to their profession—the courageous, temperate, holy, free, and the like; but they should not depict or be skillful at imitating any kind of illiberality or baseness, lest from imitation they should come to be what they imitate.”<sup class=\"fnref\"><a href=\"#fn5\" id=\"fnref5\">5</a></sup> Artists simply do not pursue the “true” nature of what their subject matter is, and they are fundamentally unable to test claims to absolutely valid knowledge, given the imitations of truth they produce. Art is only <i>permitted</i> to exist by the higher pursuit of philosophy, “for it is necessary that the good poet, if he is going to make fair poems about the things his poetry concerns, be in possession of knowledge when he makes his poems.” Such conviction shows the new faith in the value of pursuing universally “correct” truths, to be gained from rational scrutiny and logical argumentation.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "From these statements, we may offer two notions that have held a defining role in the Western philosophical project for the past two millennia: that the pursuit of universal knowledge as such is the starting point of a worthy, valuable life, and critical reason should be the principal means by which we can gain such valid knowledge of reality and life. In this ceaseless march, we find ourselves striving for “the highest ideal,” which “is <i>theoretical man</i>, equipped with the highest power of understanding and working in the service of science, whose archetype and progenitor is Socrates. The original aim of all our means of education is to achieve this ideal; every other form of existence has to fight its way up alongside it, <i>as something permitted but not intended</i>.”<sup class=\"fnref\"><a href=\"#fn6\" id=\"fnref6\">6</a></sup> Specifically, beginning with the Socratic method, we observe that any knowledge that we claim to have, unless scrutinized through some form of pure rational critique, becomes imitation at best, sophistry at worst. We reflect on our lives, insofar as we attempt to attain a “truer”, universal form of our values.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "These “claims to universality” creep into the territory of <i>how</i> we ought to evaluate our normative actions—the worthy life—in the case of the <i>Phaedo</i>, where Socrates seeks to gain knowledge about the nature of the human <i>soul</i> as a universal human object. He undertakes this enterprise of finding what we ought to pursue in life in a universally rational form because “as long as we have a body and our soul is fused with such an evil we shall never adequately attain what we desire, which we affirm to be the truth.”<sup class=\"fnref\"><a href=\"#fn7\" id=\"fnref7\">7</a></sup> In essence, the true Socratic philosopher, who desires a worthy life, pursues that knowledge “using pure thought alone, [trying] to track down each reality pure and by itself, freeing himself as far as possible from eyes and ears and, in a word, from the whole body, because the body confuses the soul and does not allow it to acquire truth and wisdom whenever it is associated with it.”<sup class=\"fnref\"><a href=\"#fn8\" id=\"fnref8\">8</a></sup> Other modes of understanding are a mere secondary means to gaining knowledge of one’s virtues and reality—means that are inferior to reason.<sup class=\"fnref\"><a href=\"#fn9\" id=\"fnref9\">9</a></sup> Whether in the Dialogues, Descartes in his <i>First Meditations</i>, Hobbes in his <i>Leviathan</i>, or Locke in <i>An Essay Concerning</i> <i>Human Understanding</i>, appeals to notions of universal truth and systematic logical claims are way in which the universally valid definitions of the virtues, the universally valid understanding of man, the universally valid foundation of knowledge, and much more unconditional principles for life are purportedly arrived at. Art, on the other hand, as it deals with sensory phenomena and our intuitions, represents pseudo-reality, pseudo-knowledge—at times beautiful, but not a method to grasp valid eternal truths that can unconditionally guide our lives.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Yet, Socrates, perhaps curiously, differentiates himself from those more modern philosophers as well. Contrary to the vast majority of leading philosophers since the 16th century, Socrates sees the arts—represented for the most part in the Dialogues by poetry and rhetoric—as a competitor to philosophy, stating that “there is an ancient quarrel between philosophy and poetry” in the <i>Republic</i>.<sup class=\"fnref\"><a href=\"#fn10\" id=\"fnref10\">10</a></sup> Platonic Dialogues even seem to emulate that poetic, dramatic form of writing more so than an intellectual treatise on the topic at hand, as modern philosophers tend to write. Those modern philosophers do not even consider philosophy and the arts as even addressing similar questions: for them, philosophy aims at inquiries of truth and how we ought to face life, whereas art concerns itself with beauty, flattery, and pleasantries. Yet Socrates spends Book II, III, and X of the <i>Republic</i> critiquing art, tragedy, and Homer and how they should not be considered meaningful candidates that can give us guidance and direction towards how we ought to worthily and valuably live life. That acknowledgement in itself opens the possibility that—however wrong Socrates deems its candidacy—art still <i>aims to address</i> the matter of how we ought to understand and pursue a worthy, valuable life. Modern philosophy and science take it as an obvious assumption that artistic intuitions are of secondary importance in establishing the values we live for, but it is pivotal to recognize that such a view originated first from Socrates’ direct and explicit contention with Homer. As such, the qualm here is not with Socrates himself, nor the Socratic method of investigation in itself, but rather with our rigid, primary devotion to the logical, rational pursuit of eternal validity—truth as absolute correctness in a proposition—that finds its earliest foundations in the Greek philosopher.",
+"cls": ""
+},
+{
+"type": "h2",
+"html": "1. What is at Stake?"
+},
+{
+"type": "p",
+"html": "Here, we are confronted with a series of very important questions. Namely, Socrates and most of the Western philosophical tradition have rejected aesthetic experience and artistic creation, especially the tragic arts as represented by Homer, as carrying primary and legitimate philosophical significance, capable of being a path to understanding the world and ourselves. But we ask: why does Socrates immediately categorize the arts and aesthetic creations as a crass, secondary means of evaluating life and understanding the world? Can the experience of artistic creations really be considered engagements with only imitations of truth, with no other unique presence in life? Critiques of comedy, tragedy, music, art, poetry, and the like are ever-present in the <i>Republic,</i> the <i>Philebus</i>, and the <i>Gorgias</i> and place them under a microscope as an object of rational inquiry—yet is it fair to place art under the very technique of analysis the rationalist philosophers themselves created? Can we simply reject aesthetic and sensory experience as a valid and valuable means of intelligibly understanding the world that may have primacy in guiding how we ought to value our lives, simply because the rational ethos of the Western philosophical tradition tells us to do so?",
+"cls": ""
+},
+{
+"type": "p",
+"html": "To answer, we pay close attention to Nietzsche’s words; he says in <i>The Birth of Tragedy</i> that “only as an <i>aesthetic phenomenon</i> is existence and the world eternally <i>justified</i>.”<sup class=\"fnref\"><a href=\"#fn11\" id=\"fnref11\">11</a></sup> And rather than resorting to rationalist language, he states that he should have created “a <i>language of [his] very own</i> for such personal views and acts of daring,” alluding to the way he went about writing his first book on the importance of tragedy in pre-Socratic Greek life.<sup class=\"fnref\"><a href=\"#fn12\" id=\"fnref12\">12</a></sup> Yet, he went “laboring instead to express strange and new evaluations in Schopenhauerian and Kantian formulations, things which fundamentally ran counter to both the spirit and taste of Kant and Schopenhauer.”<sup class=\"fnref\"><a href=\"#fn13\" id=\"fnref13\">13</a></sup> Even so, his original perspective still stands—that the sober, rational outlook on life that Socrates championed successfully “gave rise to the death of tragedy.”<sup class=\"fnref\"><a href=\"#fn14\" id=\"fnref14\">14</a></sup> In this context, we begin to consider that perhaps musical tragedy was not a simple presentation of aesthetic enjoyment nor a crass product “remote from intelligence, and…companion and friend for no sound and true purpose,” but simply must be considered under a new, “daring” perspective.<sup class=\"fnref\"><a href=\"#fn15\" id=\"fnref15\">15</a></sup> Perhaps the pessimism it displayed, in its chaotic forms and beckoning the <i>participation mystique</i><sup class=\"fnref\"><a href=\"#fn16\" id=\"fnref16\">16</a></sup> of the audience, was not “decline, decay, or malformation,” but rather a “pessimism of strength.”<sup class=\"fnref\"><a href=\"#fn17\" id=\"fnref17\">17</a></sup> Perhaps the “illusory” arts fill a necessary void in human life and discloses important “truths” that rational order cannot reach, possessing a power beyond the simple and crass mimicry of truth that Socrates claims art is dependent on.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Finally, in an inversion of Socratic thought, perhaps Socratism <i>itself</i> is instead “a sign of decline, of exhaustion, of sickness, of the anarchic dissolution of the instincts…is scientific method perhaps no more than fear of and flight from pessimism? A subtle defense against — <i>truth</i>?”<sup class=\"fnref\"><a href=\"#fn18\" id=\"fnref18\">18</a></sup> Understanding ourselves and what we ought to do in the world may not be a completely rational enterprise, and the examination that deems a life “worth living” may not be adherence to a Socratic method; we seem to need a completely different formulation of evaluating life that alleviates the sicknesses engendered by the sciences, “for the problem of science cannot be recognized within the territory of science,” perhaps because, as Heidegger says, “science is not an original happening of truth, but always the cultivation of a domain of truth already opened, specifically by apprehending and confirming that which shows itself to be possibly and necessarily correct within that field.”<sup class=\"fnref\"><a href=\"#fn19\" id=\"fnref19\">19</a></sup><sup>,</sup><sup class=\"fnref\"><a href=\"#fn20\" id=\"fnref20\">20</a></sup> Science has perhaps operated with a tight view of truth, yet seeks to extend its truth-giving beyond its suitable purview.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "It would be prudent to briefly mention the way Nietzsche uses the term “science,” which is the way I will use it in this paper. This word references a much broader corpus of thought than what we would consider in the modern context, which we use to reference any academic discipline that uses empirical hypothesis testing and some scientific method to arrive at objective conclusions; essentially, this would constitute the social and natural sciences. However, Nietzsche uses the word as reference to any enterprise that wishes to use rationality and structured claims to arrive at some universal, propositional truth. In this respect, almost all theories of conventional Western metaphysics and epistemology—rationalism, natural law, empiricism, positivism, dualism, and more—fall under the scope of Nietzschean “science,” as they present the world as an unconditionally describable, ordered set of abstractions that we may grasp, even if some theories are limited by probabilistic language. Thus, it becomes clearer why Nietzsche at times uses Socrates as the primary spokesperson of the “sciences”, given that the Greek philosopher is of the first in the Western tradition to appeal to a theory of universal knowledge and reality.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Before we unravel the “problem of science” that Nietzsche refers to in his essay, it would also be worthwhile to explore how he shapes his mistrust of the capacious view of science as a “sickness” or “exhaustion”, given his texts’ affinity for esoterism. Nietzsche’s suspicion of science does not stem from the pursuit of the discipline itself. Instead, Nietzsche foresaw a time when science would be the ultimate authoritative guide for what we need to know in life; the manifestation and emphasis of science as utmost in our lives would have a hegemonizing effect on any other normative gauge of life, causing “sickness” and “exhaustion.”",
+"cls": ""
+},
+{
+"type": "p",
+"html": "The implications of a dominating, science-driven intellectual ethos may not be readily evident on first glance, even in <i>The Birth of Tragedy.</i> The material progress spurred by the comprehensiveness of the sciences is marvelous, but the reason for its celebration is also the reason for its nauseating effects: given its belief that rationality and logical methodology could grasp the true essence of the objective world independently of the observer or thinker, the individual is replaced by absolute consensus in an abstract propositional claim. While it has certainly produced the greatest inventions and theories of our time, its claims to universal validity direct its progress towards the promise of timelessness and ultimacy. Thus, any other mode of valuation or thinking must be <i>permitted</i> by the sciences to exist, rationally scrutinized to ensure its conformity with that standard of absoluteness. At the end of the day, all there <i>really is to</i> know about the world are the rationally graspable properties and disinterested factual claims to be gleaned through “the essence of logic”, values that are not contingent on a single finite person, but valid for all <i>peoples</i>.<sup class=\"fnref\"><a href=\"#fn21\" id=\"fnref21\">21</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "The risk of exhaustion here is falling prey to a perspective of the world that reduces and paraphrases <i>everything</i> in existence into a collection of disinterested abstractions that seem to only have bearing on a general concept of “life” as such. In this uniformity, we systematize our view of the world “as a finished sum of historical events under the severe, intellectual gaze of orthodox dogmatism, and people begin to defend anxiously the credibility of the myths while resisting every natural tendency within them to go on living and to throw out new shoots.”<sup class=\"fnref\"><a href=\"#fn22\" id=\"fnref22\">22</a></sup> Scientific belief takes utmost precedence in directing both individual and social action, yet there is no guarantee that this mode of evaluating life will actually weather the disturbances of life; that it will successfully escape the potential meaninglessness of life and resist all attempts at dissolution of its intelligibility. The assertion that the most meaningful, truest, noblest human vocation is “to separate true knowledge from illusion and error,” then gives us no other perspective to tackle life with.<sup class=\"fnref\"><a href=\"#fn23\" id=\"fnref23\">23</a></sup> All the modes of valuing life are essentially equalized under the “severe, intellectual gaze” of science’s aim for eternal validity, and thus, life’s direction becomes prosaic and predictable, a static pursuit that diminishes the local depth of any <i>individual</i> life. By beating on that same drum of science repeatedly for answers to life, but perhaps not getting satisfactory answers, <i>exhaustion</i> sets in.",
+"cls": ""
+},
+{
+"type": "h2",
+"html": "2. Unraveling the “Problem of Science”"
+},
+{
+"type": "p",
+"html": "The reference to this “problem of science” was not included in the original publication of <i>The Birth of Tragedy</i>; he only added this explicit charge towards the sciences—by which he does not only mean modern science, but the practice of hypothesis testing and rigorous rational critique in general—fifteen years after its publication, in a new introductory essay to the book that he named <i>An Attempt at Self-Criticism</i>. This was also around the time he wrote his more famous works, such as <i>The Gay Science</i>, <i>Thus Spoke Zarathustra</i>, and <i>Beyond Good and Evil</i>, which all challenge the purported all-encompassing power that the sciences claim to have, and whether its pursuit is the only road through which true knowledge, whether of ideas or the self, can occur. While this paper will focus mostly on the <i>Birth of Tragedy</i>, I find it necessary to appeal to Nietzsche’s later texts to understand why, in this new essay, he returned to and reframed his first book as addressing “something fearsome and dangerous…the <i>problem of science</i> itself.”<sup class=\"fnref\"><a href=\"#fn24\" id=\"fnref24\">24</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "With the larger corpus of his texts in mind and Nietzsche’s characterization of science as sickness, the “problem of science” may best be framed as its indifference, ignorance, and detachment from the <i>sense</i> that life makes, or the care that each of us have towards the <i>phenomenologically</i> powerful possibilities of life<i>.</i> Science may illuminate facts of life, but rarely does it offer directionality for our lives. Specifically, science does not seem to confidently answer <i>why</i> and <i>how</i> we ought to choose one course of action over a plethora of others—an experiential, navigational power that offers us directionality in weighing the significance of choosing what college to go to, which job offer to take, how to act when a friend becomes suicidal, or what to say to someone experiencing the loss of a loved one—given that the values and directions behind each course of action are distinct when we confront them. How do those distinctions arise at all? And while the rigorous pursuit of scientific knowledge, exemplified by Einstein’s deep understanding and geometric formulation of gravitational forces, Popper’s analytical critique of scientific deduction, or Hume’s elucidations of the foundations of human understanding, may be illuminating ends for humanity, they are still often silent on this existential struggle concerning the individual normative actions each of us grapple with in our lives every day. The scientific paradigm presupposes that any single individual’s creativity and artistic insight into life is either inherently less justifiable and worthy (to use a Socratic reference) than a claim to objective truth, or that any such depiction simply does not matter as much as the deeper, more universally valid truth that the work represents, pushing us to ask that ever-familiar question in our university courses: <i>so what is the artist really getting at here? What is his actual message?</i>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Contextualizing this normative struggle to Athens, the problem of science reveals itself in the restricted Socratic and Platonic understanding of the Delphic maxim “know thyself.” Socrates’ and Plato’s interpretations of this message may have thrown away a fundamental part of the Greek citizen; the part that cannot be grasped or discerned through dialectic methods and logical propositions; the part that once saw the pure enjoyment and experience of comedic, tragic, and Dionysian art forms as a significant and necessary investment in their lives. Thus, the rational normativity present in Socratic thought may be re-characterized as in Nietzsche’s <i>Beyond Good and</i> <i>Evil;</i> the philosopher muses that such rigorous “dogmatic philosophy” from Socrates built “sublime and unconditional philosophical edifices…some piece of folk superstition from time immemorial (like the soul-superstition that still causes trouble as the superstition of the subject of I), some word-play perhaps, a seduction of grammar or an over-eager generalization from facts that are really very local, very personal, very human-<i>all-too human</i>.”<sup class=\"fnref\"><a href=\"#fn25\" id=\"fnref25\">25</a></sup> So, we ask, how does the value we put to truth as universal, eternal validity through science fail to disclose how we make sense of life, and how may we encounter moments of disclosure that <i>affirm</i> the meaningfulness of living life? Nietzsche describes how we should approach this problem in <i>An Attempt at Self-Criticism</i>, the one that the rest of this paper will seek to address<i>:</i> that we should strive to “<i>to look at science through the prism of the</i> <i>artist, but also to look at art through the prism of life.</i>”<sup class=\"fnref\"><a href=\"#fn26\" id=\"fnref26\">26</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "We pause here and emphasize the literary style of Nietzsche’s philosophy. His works are elusive as much as they are figurative; he often alludes to seemingly unrelated topics, metaphors, and figures in philosophy, hinting at their importance yet never explaining it in full. Figurations like “seduction of grammar” or “sublime philosophical edifice” or “prism of life” suggest a necessarily figurative approach to constructing a new domain of self-understanding, in which stylized voices, metaphors, allegories, and oft-ironic tones present in his texts are an integral part of the aesthetic world he seeks to build. Specifically, we are given an encapsulation into the <i>meaningfulness</i> of artistic creation and aesthetic reflection for Nietzsche in <i>The Gay Science,</i> presented in similarly stupefying figurative language:",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "Had we not approved of the arts and invented this type of cult of the untrue, the insight into general untruth and mendacity that is now given to us by science — the insight into delusion and error as a condition of cognitive and sensate existence — would be utterly unbearable. <i>Honesty</i> would lead to nausea and suicide. But now our honesty has a counterforce that helps us avoid such consequences: art, as the <i>good</i> will to appearance… As an aesthetic phenomenon existence is still <i>bearable</i> to us, and art furnishes us with the eye and hand and above all the good conscience to be <i>able</i> to make such a phenomenon of ourselves. At times we need to have a rest from ourselves by looking at and down at ourselves and, from an artistic distance, laughing <i>at</i> ourselves or crying <i>at</i> ourselves; we have to discover the <i>hero</i> no less than the <i>fool</i> in our passion for knowledge; we must now and then be pleased about our folly in order to be able to stay pleased about our wisdom!…we need all exuberant, floating, dancing, mocking, childish, and blissful art lest we lose that <i>freedom over</i> <i>things</i> that our ideal demands of us. It would be a <i>relapse</i> for us, with our irritable honesty, to get completely caught up in morality and, for the sake of the overly severe demands that we there make on ourselves, to become virtuous monsters and scarecrows.<sup class=\"fnref\"><a href=\"#fn27\" id=\"fnref27\">27</a></sup>"
+},
+{
+"type": "p",
+"html": "These figurations seem to generate more questions than they answer, but perhaps that is a part of the task here: “to <i>look at science through the prism of the artist, but also to look at art through the prism</i> <i>of life,</i>” there is necessarily a departure from the scientific trust in the fixed bivalence of truths and untruths, that creating a “cult of the untrue” may be needed to bear life. Without art, we become “virtuous monsters and scarecrows,” the imagery suggesting that grasping the world through the rigorous demands of universal knowledge may lead us to scare off and hinder any possible <i>affirmation</i> of our life in its entirety. The power of myth and art to do this is quite apparent; they are often created to strengthen and deify the most captivating figures and ideologies of every kind—from Washington and Napoleon to communism and Nazism. Yet, somehow, that aesthetic power is rarely thought of as a primary phenomenon, passed off as something that augments life but is not necessary to it. Perhaps the most powerful figures of history recognized the power of art to stave off the scientific ethos’s “insight into delusion and error as a condition of cognitive and sensate existence” that gives rise to “nausea and suicide.” The reason for those figures’ intense captivation over the people lies in their recognition that we need, before anything, an aesthetic perspective about any values we place on individual and social direction; in the absence of “blissful art,” perhaps “we lose that <i>freedom over things</i> that our ideal demands of us.” This consideration leads us to ask: what bearing do aesthetic phenomena have on our lives? Better yet, how can we find strength in considering life and the world first as an aesthetic phenomenon?",
+"cls": ""
+},
+{
+"type": "h2",
+"html": "3. Life and the World as an Aesthetic Phenomenon"
+},
+{
+"type": "p",
+"html": "To better crystallize this notion of how life may gain primary significance as an aesthetic experience, we should return and first understand the stylistic expressions of the dueling phenomena that define the new, aesthetic metaphysical domain in Nietzsche’s <i>Birth of Tragedy.</i> I speak of the figurative account that the “evolution of art is bound up with the duality of the <i>Apolline</i> and the <i>Dionysiac</i>…which co-exist in a state of perpetual conflict interrupted only occasionally by period of reconciliation.”<sup class=\"fnref\"><a href=\"#fn28\" id=\"fnref28\">28</a></sup> The task seems at first to understand how such an aesthetic notion reveals any sort of defect of the scientific form of valuation. Namely, given this dual appeal to such “penetratingly vivid figures of [the Greek] gods” which is an “opposition only apparently bridged by the common term ‘art’,” how is an allegorical notion meant to reveal “the problem of science” or serve as a new approach to understanding ourselves?<sup class=\"fnref\"><a href=\"#fn29\" id=\"fnref29\">29</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "However, this instinctive urge to connect the aesthetic notion to a deeper rational formulation of an issue seems to be a symptom of the very problem that Nietzsche grapples with in this book and throughout his life; we often think of universal rationality as the primary way to gain any insight into life and the world, cemented into our thought by the likes of Socrates (striving to define the world in universally valid Forms, which is presented as the “highest” level of existence) and Kant (appealing to man’s inherent ability “to use his own reason in <i>all</i> matters of conscience,” subject to the <i>form</i> of practical rationality).<sup class=\"fnref\"><a href=\"#fn30\" id=\"fnref30\">30</a></sup> As such, we may be tempted to formulate Nietzsche’s ‘problem of science’ in a manner similar to Plato’s Allegory of the Cave, wherein the <i>Apolline</i> and <i>Dionysiac</i> are figurines that symbolize a fuller picture of a “deeper” world—an amusing, sensory presentation of a more abstract claim—that we have so far failed to recognize.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "This is not the case. Nietzsche considers aesthetic phenomena as its own dimension of life, “with the certainty of something directly apprehended (<i>Anschauung</i>),” able to reveal a <i>uniquely</i> foundational, “second, quite different reality…powers which erupt from nature itself.”<sup class=\"fnref\"><a href=\"#fn31\" id=\"fnref31\">31</a></sup> This intuitive, primal experience is a fundamentality. Thus, we strive not to perversely merge these fantastic, Nietzschean images with the rationalist formulations of the Socratic and Kantian; it deserves its own attention, shedding light on the problem of science not merely from a different lens but from a separate grounding. Particularly, the problem of science is not that it fails to <i>account</i> for the world of aesthetic experience and existence, but that it does not acknowledge, outright rejects, and subsequently cuts us off from its <i>legitimacy</i> as a fundamental and meaningful affirmation of life. We thus start by constructing entirely new possible commitments, explicitly experiencing “art of comfort <i>in this world”</i>, <i>not</i> in the unattainable world of forms, or any other theorized notion of higher reality.<sup class=\"fnref\"><a href=\"#fn32\" id=\"fnref32\">32</a></sup> These Nietzschean “<i>artistic drives of nature</i>” are first established as the duality of the <i>Apolline</i> and the <i>Dionysiac,</i> then recharacterized as psychological phenomena: the “separate art-worlds of <i>dream</i> and <i>intoxication.</i>”<sup class=\"fnref\"><a href=\"#fn33\" id=\"fnref33\">33</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "The Apolline is the aesthetic world of such <i>dream</i>: a superhuman realm in which we understand “figures without mediation; all forms speak to us; nothing is indifferent or unnecessary.”<sup class=\"fnref\"><a href=\"#fn34\" id=\"fnref34\">34</a></sup> Apollo, as the god of image-making and art, of dreams, of prophecy, of light, of semblance, embodies the wondrous world of fantasy, what Nietzsche describes as “the higher truth,” a pure expression of “imperturbable trust in the [<i>principium individuationis</i>] and of the calm sitting-there of the person trapped within it; one might even describe Apollo as the magnificent divine image (<i>Götterbild</i>) of the <i>principium individuationis</i>, whose gestures and gaze speak to us of all the intense pleasure, wisdom, and beauty of ‘semblance’.”<sup class=\"fnref\"><a href=\"#fn35\" id=\"fnref35\">35</a></sup> Thus, when fully accepting the world of dream, we create with unencumbered artistic autonomy, without the sober restraints of the awakened real world, committing to a vivid sense of “artistic sensibility.” We nurture this world",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "“closely and with pleasure, using these images to interpret life, and practicing of life with the help of these events. Not that it is only the pleasant and friendly images which give him this feeling of complete intelligibility; he also sees passing before him things which are grave, gloomy, sad, dark, sudden blocks, teasings of chance, anxious expectations, in short the entire ‘Divine Comedy’ of life, including the Inferno, but not like some mere shadow-play — for he, too, lives in these scenes and shares in the suffering — and yet never without that fleeting sense of its character as semblance…All of these facts are clear evidence that our innermost being, the deep ground (<i>Untergrund</i>) common to all our lives, experiences the state of dreaming with profound pleasure and joyous necessity.”<sup class=\"fnref\"><a href=\"#fn36\" id=\"fnref36\">36</a></sup>"
+},
+{
+"type": "p",
+"html": "I emphasize the importance of the primacy of determinateness in the Apolline drive. As Apollo is the god of light and prophecy, in the Apolline state is Entities are perfectly intelligible: “perfection…in contrast to the only partially intelligible reality of the daylight world.”<sup class=\"fnref\"><a href=\"#fn37\" id=\"fnref37\">37</a></sup> Strikingly similar to the object of Socratic ambition, the Apolline is a state of flawless, coherent semblance—one that encompasses “measured limitation (<i>maßvolle Begrenzung</i>), that freedom from wilder impulses, that wise calm of the image-making god.”<sup class=\"fnref\"><a href=\"#fn38\" id=\"fnref38\">38</a></sup> Thus, when Nietzsche mentions the “<i>principium</i> <i>individuationis</i>,” he means the principle of determinacy itself: determinate reason, social roles, values, entities, people, ideas, objects—anything distinguishable. The wise Apollo embodies the “most sublime expression” of this basic drive to distinguish, as he deifies the “imperturbable trust in this principle and of the calm sitting-there of the person trapped within it.”<sup class=\"fnref\"><a href=\"#fn39\" id=\"fnref39\">39</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Yet, almost as a fact of life, lived experience is never perfectly measured; it breaks down, and in an inversion, <i>succumbs</i> to the part of the daylight world that seems to us only “partially intelligible.” The intense wisdom, form, and beauty we once found in semblance decays away into an innermost confusion present in man. The trust we had in the <i>principium individuationis</i> fades away, overpowered by the artistic drive of the <i>Dionysiac</i>. Apollo himself seems to dissolve into enormous horror, and we “suddenly become confused and lose faith in the cognitive form of the phenomenal world because the principle of sufficient reason, in one or other of its modes, appears to sustain an exception.”<sup class=\"fnref\"><a href=\"#fn40\" id=\"fnref40\">40</a></sup> Distinguishability dissipates into unity, where subjectivity “vanishes to the point of complete self-forgetting,” replaced by Dionysiac forces that “awaken either under the influence of narcotic drink, of which all human beings an peoples who are close to the origin of things speak in their hymns, or at the approach of spring when the whole of nature is pervaded by lust for life.”<sup class=\"fnref\"><a href=\"#fn41\" id=\"fnref41\">41</a></sup> The <i>principium</i> <i>individuationis</i>, which man trusted like “his frail craft in a stormy sea…rising and falling with the howling, mountainous waves,” inevitably breaks down and is flooded by the erupting <i>primordial unity</i>.<sup class=\"fnref\"><a href=\"#fn42\" id=\"fnref42\">42</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Given this powerful and somewhat horrifying description of the Dionysiac as a primal state, we may be tempted to label it as one to avoid: a primitive, poisonous instinct that destroys those structures which make us human and is thus better served as subdued to the intelligible beauty and self-assuredness of the Apolline. Yet, such an interpretation is precisely the product of our millennia-long bond and dependence on universal validity. Dionysiac stirrings have long been misunderstood by those who “turn away in scorn or pity from such phenomena, regarding them as ‘popular diseases’ while believing in their own good health.”<sup class=\"fnref\"><a href=\"#fn43\" id=\"fnref43\">43</a></sup> Pursuit of pure truth promises us the the virtuous life; yet a lack of satisfaction and an abundance of suffering still permeates through our modern fabric. The western philosophical project has for so long rejected the legitimacy of the intense, aesthetic instincts of the Dionysiac state, believing that claims to pure cognition and absolute truth shall save them from the confusing pessimism and intoxicated madness, the enormous yet inevitable horror, even the unencumbered impulses that inescapably live in each of us. So now we dare to ask once more: “Is there a tempting bravery in the sharpest eye which <i>demands</i> the terrifying as its foe, as a worthy foe against which it can test its strength and from which it intends to learn the <i>meaning of fear</i>?” Can we perhaps experience “neuroses of <i>health</i>, of national youth and youthfulness” from plunging our tired, reason-conditioned brains into Dionysiac stirrings?<sup class=\"fnref\"><a href=\"#fn44\" id=\"fnref44\">44</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Yes—what if those Dionysiac instincts became our reality? Looking past the facade of disquieting descriptions accompanying the Dionysiac, Nietzsche offers us a new interpretation, the possibility of a “glowing life of Dionysiac enthusiasts.”<sup class=\"fnref\"><a href=\"#fn45\" id=\"fnref45\">45</a></sup> It is heavily influenced by a Schopenhauerian line of thought, one in which “the everyday world [of distinct objects of experience] is a mere appearance, [and] there is a reality behind it to which Schopenhauer thinks we sometimes have access….we can have non-empirical access to it in our own willing—we know what we will directly without ‘observing’ anything—and in certain kinds of aesthetic experience.”<sup class=\"fnref\"><a href=\"#fn46\" id=\"fnref46\">46</a></sup> Nietzsche extends such an idea into a fundamental, artistic state of life, where through aesthetic phenomena, “all the rigid, hostile barriers, which necessity, caprice, or ‘impudent fashion’ have established between human beings, break asunder…Now the slave is a freeman.”<sup class=\"fnref\"><a href=\"#fn47\" id=\"fnref47\">47</a></sup> Given this composition of the Dionysiac, without the distinguishability of the Apolline, we wonder what such an intense eruption of <i>primordial unity</i> would look like. Nietzsche gives us this picture:",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "If one were to transform Beethoven’s jubilant ‘<i>Hymn to Joy</i>’ into a painting and place no constraints on one’s imagination as the millions sink into the dust, shivering in awe, then one could begin to approach the Dionysiac…hearing this gospel of universal harmony, each person feels himself to be not simply united, reconciled, or merged with his neighbor, but quite literally one with him, as if the veil of Maya had been torn apart, so that mere shreds of it flutter before the mysterious <i>primordial unity</i>. Singing and dancing, man expresses his sense of belonging to a higher community…Man is no longer an artist, he has <i>become</i> <i>a work of art</i>.<sup class=\"fnref\"><a href=\"#fn48\" id=\"fnref48\">48</a></sup>"
+},
+{
+"type": "p",
+"html": "And so, the immediate satisfaction of the Dionysiac world-artist is in the “chisel-blows” that mold nature and man into a fundamental, unitary phenomenon. Distinguishable structures, wherever they are found, are disrupted, revealing the arbitrariness and fragility of the <i>principium individuationis</i> in the Apolline world-artist’s dream-creations. The freedom of imagination becomes reality, expressing itself with a confusing yet sublime spirit that is different to the calm, sensical forms of the Apolline; semblance, image, and statue no longer matter to us—and why should they? Nothing rings of more unifying ecstasy and joyful bliss than the passion of <i>Ode to Joy</i> as interpreted above, where Nietzsche ascribes the composition’s imagery and vision as inching us closer to that Dionysiac state:",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "<i>Joy, beautiful spark of divinity, Daughter from Elysium! We enter, burning with fervor, heavenly being, your</i> <i>sanctuary! Your magic brings together what custom has sternly divided. All men shall become brothers, wherever</i> <i>your gentle wings hover. Whoever has been lucky enough to become a friend to a friend, Whoever has found a</i> <i>beloved wife, let him join our songs of praise! Yes, and anyone who can call one soul his own on this earth!</i><sup class=\"fnref\"><a href=\"#fn49\" id=\"fnref49\">49</a></sup>"
+},
+{
+"type": "h2",
+"html": "4. Moments of Disclosure: Truth in Art"
+},
+{
+"type": "p",
+"html": "Thus far, we have stylized a dual conception of a world fundamental to life not from logical insights nor rational claims as Socrates might have built, but from aesthetic grounds, where <i>phenomena</i> have taken primacy over rational process. Yet precisely since we have spoken about such a world in its <i>first</i> and <i>primary</i> realization arising from nature, we have not yet answered how such an artistic world-picture, embodied by the two primordial art drives—the Dionysiac and Apolline—attains salience in our lives and offers us directionality in making sense of life. Our discussion thus far has been decidedly abstract, and it is difficult to see its bearing on our lives. In familiar words, we have not yet addressed the task directly, where we explore how to “<i>look at science through the prism of the</i> <i>artist, but also to look at art through the prism of life</i>”; to accomplish that task, we must now understand how these artistic drives of nature become salient in human life, how we as spectators experience those manifestations, and how such manifestations—especially in the form of tragic art—affords us the possibility of confidence, significance, and directionality in life.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "The answer to the first question is simple. <i>Art</i> is the direct linkage between the artistic states and human life, because “art furnishes us with the eye and hand and above all the good conscience to be <i>able</i> to make [an aesthetic] phenomenon of ourselves.”<sup class=\"fnref\"><a href=\"#fn50\" id=\"fnref50\">50</a></sup> Through sensible actualization by a human artist, we for the first time understand the Apolline dream-drive, the Dionysiac intoxication-drive, or in rare cases, such as in Nietzsche’s consideration of Greek tragedy, both drives at once. Here, given its familiar status in life, we are immediately tempted to say that art gains its satisfaction in our lives as a concrete object, or thing we encounter in the world with aesthetic qualities. We come across Doric art in Roman buildings, Michelangelo’s <i>David</i> in a museum, Beethoven’s Fifth Symphony in a concert hall, and Nolan’s <i>Oppenheimer</i> in a movie theater; we tend to label those <i>presented things</i> as art. As Heidegger puts in <i>The Origin of the Work of Art</i> (a text that will have important bearing on the rest of this discussion), “works of art are shipped like coal from the Ruhr and logs from the Black Forest. During the First World War Hölderlin’s hymns were packed in the soldier’s knapsack with cleaning gear. Beethoven’s quartets lie in the storerooms of the publishing house like potatoes in a cellar. <i>All works have this thingly character</i>. What would they be without it?”<sup class=\"fnref\"><a href=\"#fn51\" id=\"fnref51\">51</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Yet, given the fundamentality of Nietzsche’s aesthetic world-picture in <i>The Birth of Tragedy</i>, this immediate view of art seems insufficient. To regard art as a mere thing, waiting to be filled in by a human artist with its characteristic aesthetic value—whether from Apolline or Dionysiac origins—is not the way art gains concrete <i>salience</i> in our lives. Specifically, we cannot simply treat art’s power “as equipment, to which we then also ascribe a superstructure supposed to contain its artistic quality…the work is not a piece of equipment that is fitted out in addition with an aesthetic value that adheres to it.”<sup class=\"fnref\"><a href=\"#fn52\" id=\"fnref52\">52</a></sup> In this objective formulation, we might say Michelangelo’s <i>David</i> is a beautiful artwork because of the geometrically perfect expression of curls in his hair, or perhaps the awe we feel in the composition of parallel lines in the forearm and thighs of the sculpture. Something about its cultural or historical significance might also be mentioned. But once again, in such a formulation, we are simply <i>projecting</i> onto the sculpture, a literal description and explanation of how the sculpture conforms to an existing standard of judgment in its depiction. That view is suspiciously similar to the view of science that Socrates has espoused: self-certain subjects (we) “bestow” a certain set of general values on a collection of existing, disinterested objects (art) that we hope to illuminate our ideals of beauty or cultural history with. But art is not only a beautiful or cultural phenomenon.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "So, we remind ourselves by returning to Nietzsche’s powerful composition of the dual Apolline-Dionysiac art-worlds—these drives are <i>fundamental</i>. We are not the ones “bestowing” significance to them; they deal with necessity and truth. The <i>principium individuationis</i> is not an “unconditional philosophical edifice” that adds to a body of universal knowledge, nor is the primordial unity of the Dionysiac; they are “artistic powers which erupt from nature itself” and stem from a “deep ground (<i>Untergrund</i>) common to all our lives.”<sup class=\"fnref\"><a href=\"#fn53\" id=\"fnref53\">53</a></sup> We make immediate sense of our lives with them, as a <i>source</i> of primary intelligibility. And so, art, as the manifestation of the Apolline and Dionysiac drives, concerns itself with truth as well. More precisely, art achieves salience in our lives not as instantiations of beauty and preference, but from its disclosure of fundamental truths. It engages in creating entire worlds, committing to a “cult of the untrue”, an uncovering of a “realm that is opened up by itself.”<sup class=\"fnref\"><a href=\"#fn54\" id=\"fnref54\">54</a></sup> Heidegger more explicitly characterizes this phenomenological understanding of art in trying to understand the significance of Van Gogh’s <i>A Pair of Shoes</i>:",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "In the nearness of the work we were suddenly somewhere else than we usually tend to be… What happens here? What is at work in the work? Van Gogh’s painting is the disclosure of what the equipment, the pair of peasant shoes, <i>is</i> in truth. This being emerges into the unconcealment of its Being. The Greeks called the unconcealment of beings <i>alētheia</i>…If there occurs in the work a disclosure of a particular being, disclosing what and how it is, then there is here an occurring, a happening of truth at work. In the work of art the truth of beings has set itself to work. “To set” means here “to bring to stand”…The essence of art would then be this: the truth of beings setting itself to work. But until now art presumably has had to do with the Beautiful and beauty, and not with truth.<sup class=\"fnref\"><a href=\"#fn55\" id=\"fnref55\">55</a></sup>"
+},
+{
+"type": "p",
+"html": "With these Heideggerian technicalities buttressing Nietzschean figurations, an undertone of how we ought to look at art in our lives begins to emerge. In speaking of “truth” in art, both Heidegger and Nietzsche do not speak of universal, propositional truths. The “happening of truth at work” is not the Socratic attempt in the <i>Euthyphro</i> to understand the true nature of piety, not Hume’s attempt to establish aesthetic judgments as the result of feeling, nor the attempts by our noblest physicists to establish universally valid theories of objective reality. Under that view, art cannot but be considered imitation and deception. Here, the truth that Nietzsche hints at and Heidegger explicitly references is <i>alētheia</i>: the unconcealment of beings in their primordial existence, a <i>disclosure</i> of their possibility to be. From this perspective, art <i>reveals</i>, “towering up within itself, the work opens up a world and keeps it abidingly in force.”<sup class=\"fnref\"><a href=\"#fn56\" id=\"fnref56\">56</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "To again be precise, the reference to “world” is not referring to something like “objective reality,” in which a physicist might discover a fact of the world as an object that independently exists and confronts us. A geophysicist may understand how a stone may fit into the earthly world through investigation of its scientific properties, but in considering a stone as an entity, it cannot emerge as <i>alētheia</i> to us<i>,</i> for “a stone is worldless.”<sup class=\"fnref\"><a href=\"#fn57\" id=\"fnref57\">57</a></sup> By itself, a stone reveals no source of significance and intelligibility. More explicitly, “two entities…[which] are worldless in themselves…can never ‘touch’ each other, nor can either of them ‘be’ ‘alongside’ the other,” because only in meeting up with certain entities whose primary concern is to make sense of their being, as in the case of humans, can that stone matter and gain salience as a being.<sup class=\"fnref\"><a href=\"#fn58\" id=\"fnref58\">58</a></sup> For example, a peasant woman “has a world because she dwells in the overtness of beings. Her equipment, in its reliability,” like her pair of working boots, “gives to this world a necessity and nearness of its own. By the opening up of a world, all things gain their lingering and hastening, their remoteness and nearness, their scope and limits.”<sup class=\"fnref\"><a href=\"#fn59\" id=\"fnref59\">59</a></sup> A world is salient to us, because it is how things avail themselves as immediately meaningful to us; it is the backdrop of total involvements and relations that give rise to significances at all, the “scope and limits” of entities’ intelligible existence that lets us “[gaze] into the true essence of things.”<sup class=\"fnref\"><a href=\"#fn60\" id=\"fnref60\">60</a></sup> Thus, on this understanding of “world” as primary sources of possible intelligibility, it is important not to read Nietzsche’s task here as espousing just a sort of subjectivist value theory that simply counters the universal one that Socrates gave, where the world is relative for each individual rather than universally valid for man, so man must merely find a subjective meaning of life from art. Those perspectives presume that <i>there already is something</i> about the world to be valued or not. This perspective ignores Nietzsche’s own rhetorical beckoning to the creation of a new perspective, a “<i>language of [our] very own</i>” that tackles the problem of science, a perspective stated in <i>The Gay Science</i>:",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "The whole attitude of ‘man <i>against</i> the world’, or man as a ‘world-negating’ principle, of man as the measure of the value of things, as judge of the world who finally places existence itself on his scales and finds it too light — the monstrous stupidity of this attitude has finally dawned on us and we are sick of it; we laugh we soon as we encounter the juxtaposition of ‘man <i>and</i> world’, separated by the sublime presumptuousness of the little word ‘and!’<sup class=\"fnref\"><a href=\"#fn61\" id=\"fnref61\">61</a></sup>"
+},
+{
+"type": "p",
+"html": "With this understanding, I also find it important here—before turning directly to how this understanding of art carries normative intelligibility life in a tragic form—to explicitly discuss how we (human existence, or as Nietzsche calls, “man”) enter into this picture. Namely, there have been Nietzschean mentions of an “individual spectator” in art and Heideggerian mentions “Being”, but we have not yet been precise about such terminology that refers to this “self” in the context of our discussion of world, phenomena, and art. At the risk of sounding like a broken record, I re-prioritize the necessity of disconnecting our link with the world as conforming to the conventional scientific conception, the subject-object distinction that has held its powerful grip of rationality on philosophy since Socrates, a grip re-energized under Descartes. A direct implication of the Socratism, Cartesianism, and science we are told to use in all aspects of life, is that statements about the world <i>must be the possible content of a proposition</i>, and if we want them to have bearing on our lives, the propositions should conform “to what is true…[which is to hold] correctness in representation.”<sup class=\"fnref\"><a href=\"#fn62\" id=\"fnref62\">62</a></sup> This is how we get Socrates burrowing into the truest, universal, most essential propositions of Forms in his Dialogues, or how Descartes gets to conduct “first philosophy” with his mind, because man is the rational subject and the world is an independent object to be understood by our limitless rational power. Yet, there is hidden blindness in our supposed clear-sighted logic: “that all understanding, by its very nature, is limited and conditional, thereby rejecting decisively the claim of science to universal validity…it has been recognized for the first time that it is an arrogant delusion to believe that we can penetrate to the innermost essence of things by following the chain of causality.”<sup class=\"fnref\"><a href=\"#fn63\" id=\"fnref63\">63</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "So, even with the perspective of art as disclosure of a world, our picture is still not complete if the individual spectator is <i>judging</i> that world as an independent proposition <i>to</i> him that illuminates new insights, as Socrates or Descartes did. To understand the new perspective we seek to interpret, we pay close attention to Nietzsche’s appeal above to “the juxtaposition of ‘man <i>and</i> world.’” It bears striking resemblance to the core Heideggerian understanding that I, as <i>Dasein</i><sup class=\"fnref\"><a href=\"#fn64\" id=\"fnref64\">64</a></sup>, am “Being-in-the-world”, <i>not</i> a being, <i>in the world</i>. I am not simply an entity placed in an independent world that I observe. I exist in a connected fundamentality, my intelligibility standing “for a <i>unitary</i> phenomenon. This primary datum must be seen as a whole.”<sup class=\"fnref\"><a href=\"#fn65\" id=\"fnref65\">65</a></sup> Especially in the case of art, I do not exist in a “side-by-side-ness” with “another entity called ‘world’” that the artwork shows us.<sup class=\"fnref\"><a href=\"#fn66\" id=\"fnref66\">66</a></sup> In other words, human existence is, as is, <i>embedded</i> in a particular world. This is fundamental to art as the opening up and disclosing a world, like in Van Gogh’s painting of peasant boots, because a “world is already revealed to [Dasein], so that from out of that world another entity can manifest itself in touching, and thus become accessible…it can understand itself as bound up in its ‘destiny’ with the Being of those entities which it encounters within its own world.”<sup class=\"fnref\"><a href=\"#fn67\" id=\"fnref67\">67</a></sup> Relationship-building with anything can be a phenomenon in the first place because “an entity can ‘meet up with’ Dasein only in so far as it can, of its own accord, show itself within a <i>world,</i>” within a structure of possible meaningful involvements that we can commit to or close off.<sup class=\"fnref\"><a href=\"#fn68\" id=\"fnref68\">68</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "In this way, in art, a world-network gains salience for us by underwriting its own possibility. Unlike the universality of reason and the limitless character we endow its existence with, art “is at bottom entirely illusory,” but nonetheless “in this condition he resembles, miraculously, that uncanny image of fairy-tale which can turn its eyes around and look at itself; now he is at one and the same time subject and object.”<sup class=\"fnref\"><a href=\"#fn69\" id=\"fnref69\">69</a></sup> We disclose a truth for ourselves in artwork, keeping its salience alive in our own participation of it, which is why “<i>art then is a becoming and happening of truth</i>.”<sup class=\"fnref\"><a href=\"#fn70\" id=\"fnref70\">70</a></sup> By virtue of that participation, as Being-in-the-world, we create the possibility of understanding the intelligibility of our own being against the backdrop of the world-network that arises through. So, when Nietzsche says that “the existence of the world is <i>justified</i> (gerechfertigt) only as an aesthetic phenomenon,” we take it to mean that our lives only make justificatory <i>sense</i> to us when we interpret them primally via the linkages and entities of an intuitively graspable world that art reveals in its origination through a human artist. In caring and concerning oneself with those self-formed projections and narratives, can an individual realize his intelligible “release and redemption in semblance,” as he is afforded the opportunity to “turn [his] eyes around and look at [him]self; now he is at one and the same time subject and object, <i>simultaneously poet, actor, and spectator.</i>”<sup class=\"fnref\"><a href=\"#fn71\" id=\"fnref71\">71</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "But is it <i>necessary</i> that we disconnect from conforming art to conventional propositional truth and appeal to <i>alētheia</i>? Are we forcibly imposing an unnecessarily complex and existential perspective onto art? Can we not garner insights into life through art and navigate the world more meaningfully through conforming to “the essence of truth that has by now been familiar to us for centuries?”<sup class=\"fnref\"><a href=\"#fn72\" id=\"fnref72\">72</a></sup> Through making propositional truth statements about art, it is entirely possible to grapple with the critical concepts that are present in the art that facilitate some accurate discussion about its core thematic message, i.e. a state of affairs or objects it explains and describes, or how it might fit into larger system, i.e. theories of reality or our conceptions of beauty. Essentially, we judge the artwork in as binding in conformity with “the definition of truth as correctness….correctness in representation.”<sup class=\"fnref\"><a href=\"#fn73\" id=\"fnref73\">73</a></sup> So, again, we might say that Botticelli’s <i>The Birth of Venus</i> is a great and beautiful artwork because of the harmonious combination of colors, the exquisite detailing in the sheer fabric of the Hora of Spring, the novel expression of Renaissance-era ideals through nude painting, or an allegory to the guiding power of love in nature. These are propositions that assess “conformity of knowledge with the matter,” and “address [themselves] to an enlightened and well-prepared mass”— the system of truths and ideals we have become familiar with.<sup class=\"fnref\"><a href=\"#fn74\" id=\"fnref74\">74</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "But such analysis runs directly counter to the very core of the task at hand: “<i>to look at science</i> <i>through the prism of the artist, but also to look at art through the prism of life.</i>” Equipped with propositional truth, we are merely <i>looking at art through the prism of the scientist —</i> and this is how we have been educated to understand art. We presuppose that the significance of an artwork and its bearing on the world is something to be judged by, built by, and illuminated by its “conforming to the unconcealed, to <i>what is [already] true</i>”—essentially, as <i>articulations</i> of truth that represent “general, familiar, everyday life and activity, things which everyone is capable of judging.”<sup class=\"fnref\"><a href=\"#fn75\" id=\"fnref75\">75</a></sup> Art, especially great art, under the microscope of scientific analysis loses its rarity and primacy; in forcing its conformity to an existing body of propositional truths and judging its compliance to this existing, ordered system of knowledge, the primordial <i>world</i> that the artwork newly opens up fades away, concealed more and more by statements about the art “to which we can conform ourselves.”<sup class=\"fnref\"><a href=\"#fn76\" id=\"fnref76\">76</a></sup> Art as a science, as understandable through the power of universal validity, dissolves into an atomized, publicly-acceptable insight of mere aesthetic <i>representation</i>, as an object correctly portrayed<i>.</i> But we now dare to ask: “why should the artist be obliged to accommodate himself to a force which is strong only by virtue of its numbers? And if his talent and intentions make him feel superior to each individual spectator, why should he feel more respect for the joint expression of all these inferior capabilities than for the most talented individual spectator?”<sup class=\"fnref\"><a href=\"#fn77\" id=\"fnref77\">77</a></sup> It seems that in the realm of science, art is another object of analysis that objective knowledge must be derived from, and science’s pursuit of a “universal greed for knowledge, stretching across most of the cultured world,” results in",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "Every kind of priority get[ting] noiselessly suppressed. Overnight, everything that is primordial gets glossed over as something that has long been well known. Everything gained by a struggle becomes just something to be manipulated. Every secret loses its force. This care of averageness reveals in turn an essential tendency of <i>Dasein</i> which we call the “leveling down” [<i>Einebnung</i>] of all possibilities of Being. Distantiality, averageness, and leveling down, as ways of Being for the “they”, constitute what we know as ‘publicness’ [<i>die</i> <i>Offentlichkeit</i>]. Publicness proximally controls every way in which the world and Dasein get interpreted, and it is always right…because it is insensitive to every difference of level and of genuineness and thus never gets to the ‘heart of the matter’ [<i>auf die Sachen</i>]. By publicness everything gets obscured, and what has thus been covered up gets passed off as something familiar and accessible to everyone.<sup class=\"fnref\"><a href=\"#fn78\" id=\"fnref78\">78</a></sup>"
+},
+{
+"type": "p",
+"html": "And so, art is primal and jarring. In its utmost and authentic forms, it is not comfortably “consumable” nor publicly familiar as a cultural creation. Rather than conform to the coherence, art counters it. It terrifies and shocks, opening up worlds and unconcealing “insight into the terrible truth.”<sup class=\"fnref\"><a href=\"#fn79\" id=\"fnref79\">79</a></sup> In the struggle of the artwork, truth is exposed, as “truth establishes itself as strife within a being that is to be brought forth only in such a way that the strife opens up in this being; that is, this being is itself brought into the rift. The rift is the drawing together into a unity…this being itself takes possession of the open region of truth.”<sup class=\"fnref\"><a href=\"#fn80\" id=\"fnref80\">80</a></sup> This open region, is how we become immersed in the world, how we become intelligible in the first place. Taking Heideggerian terminology, we, as Being-in-the-world, comport ourselves to a multitude of possibilities, essentially being “ahead-of-itself” at any given moment, opening ourselves up towards specific modes of existence that define the possibilities of being at all, <i>and that openness can be established by art.</i> It is a beginning, an origin, a grounding, a founding of truth, because when we “demand a grounding in openness, art attains to its historical essence as foundation…a new and essential world irrupted…there happen[s] unconcealment of beings.” In short, “art lets truth <i>originate</i>.”<sup class=\"fnref\"><a href=\"#fn81\" id=\"fnref81\">81</a></sup>",
+"cls": ""
+},
+{
+"type": "h2",
+"html": "5. Affirming Life through Tragic Art"
+},
+{
+"type": "p",
+"html": "All of this is to say that art, in its utmost forms, is unlike any others. It has a distinct ontological signature, and thus, cannot be regarded as occupying a familiar realm of significance; this is how the tragic arts constitutes a fundamental truth for Nietzsche in <i>The Birth of Tragedy</i>. When the Apolline, as a world, is “faced with an art,” the Dionysiac, “which, in its intoxication, <i>spoke the truth</i>,” the art itself, tragedy, is the beginning and origination of that truth. In the blissful horror of tragedy, we see “for the first time the jubilation of nature achieves expression as art, here for the first time the tearing-apart of the <i>principium individuationis</i> becomes an artistic phenomenon…found in the strange mixture and duality in the affects of the Dionysiac enthusiasts, that phenomenon whereby pain awakens pleasure…from highest joy there comes a cry of horror.”<sup class=\"fnref\"><a href=\"#fn82\" id=\"fnref82\">82</a></sup> It opens up an Apolline-Dionysiac dual world on which we consider all the possibilities of being at all, how we go about “undertaking, accomplishing, evincing, interrogating, considering, discussing, determining” in light of the intelligible phenomenology of life self-established through tragic art.<sup class=\"fnref\"><a href=\"#fn83\" id=\"fnref83\">83</a></sup> Tragedy occupies a founding of meaning opened by itself, and has revealed how things are gaining their “lingering and hastening, their remoteness and nearness, their scope and limits.”<sup class=\"fnref\"><a href=\"#fn84\" id=\"fnref84\">84</a></sup> In the artwork, the fundamental phenomena of the Apolline and Dionysiac find an equal strife, in which the our status as beings is primally instigated, or “set into work”: “the fundamental recognition that everything which exists is a unity; the view that individuation is the primal source of all evil; and art as the joyous hope that the spell of individuation can be broken, a premonition of unity restored.”<sup class=\"fnref\"><a href=\"#fn85\" id=\"fnref85\">85</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "As such, tragic art discloses a base precondition of life that we can even make possible sense of ourselves to begin with: that the breakdown of all that is reasonable and intelligible—the Apolline—is inevitable in the face of the emerging Dionysiac unity. Tragedy reveals this interplay and recurrence to us in as an intelligibly graspable aesthetic phenomenon. Resisting against or succumbing to these forces does not constitute a “good” or “bad” choice that we should make; the point is that in tragedy we discover the <i>impossibility</i> of that choice. Whether Oedipus, Prometheus, Antigone, or even in the modern films <i>Parasite</i> and <i>Oppenheimer</i>, each of our characters’ spiral towards breakdown and suffering is a simple consequence of “individuation in his own person,” a fact of intelligibility and determinateness in the first place, because “the god Dionysos is too powerful.”<sup class=\"fnref\"><a href=\"#fn86\" id=\"fnref86\">86</a></sup> Clearly, that artistic experience does not occupy the same space that science does, in which we seek to rigorously strengthen intelligible theory and concrete claims to cognition with greater absolute validity. That particular view, which we have come to accept as a valuable pursuit in life, is at all <i>possible</i> against the backdrop of truth-disclosure we encounter in the tragic arts, in which “the eternally suffering and contradictory, primordial unity, simultaneously needs, for its constant release and redemption, the ecstatic vision, intensely pleasurable semblance.”<sup class=\"fnref\"><a href=\"#fn87\" id=\"fnref87\">87</a></sup> As this self-setting of a possibility for being, for tragedy “there belongs…what is here to be called <i>establishing</i>.”<sup class=\"fnref\"><a href=\"#fn88\" id=\"fnref88\">88</a></sup>",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Given that foundational ontology of tragedy, what directionality does it offer us? If breakdown of our meaningful being is inevitable, our very intelligibility vulnerable to senseless deconstruction, and anything we think to build up in the face of that Dionysiac power is finite and fragile, why ought we build at all? Can any sense of self-understanding and normativity, how we ought to understand and choose what we meaningfully value in life, transcend that breakdown? Can we construct an ironclad, universal Platonic Form of sorts? Nietzsche’s answer is decidedly a “no”, but the answer does not stop there. The impact of tragedy is not just a simple negation of all that matters in our lives and gives us an affirmative justification for life as well. It seems paradoxical at first, that the pessimistic, horrifying story of Oedipus or Prometheus or Raskolnikov, inundated with guilt and suffering, could give us any justification or strength to live, but we remember that Nietzsche considered tragedy a “pessimism of strength.” So now we ask: what is that strength? To make the answer concrete, I find it prudent to point to the tragedies themselves.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "When considering the myth of Prometheus, we are vaguely familiar with a once-great titan who stole fire from Zeus and was eternally punished while chained to a rock. Even without having seen the tragic play in person, we are aware of that storyline and its general thematic messages. And in that description, the myth of Prometheus is not much of a “myth”; it seems utterly unremarkable, some ancient story of the familiar sins of human greed and hubris. This public familiarity of the story has diluted its significant force, with “everything that is primordial” about the tragedy being “glossed over as something that has long been well known,” with the Promethean hero sinking “to the level of the Graeculus<sup class=\"fnref\"><a href=\"#fn89\" id=\"fnref89\">89</a></sup> figure.”<sup class=\"fnref\"><a href=\"#fn90\" id=\"fnref90\">90</a></sup> That mediocrity cannot be how tragedy attains and engenders strength, presenting no higher ambition. While any attempt to interpret tragedy will be weaker on impact than the actual experience of its world by an individual spectator in a theater, the starting ground for understanding tragedy’s place in our lives cannot be a mere story even on paper, but Aeschylus’s living, breathing self-manifestation of a fundamental phenomenon of our life: the myth of Prometheus reveals to us",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "the unbounded value which naive humanity placed on <i>fire</i> as the true palladium of every rising culture; but it struck those contemplative original men as a crime, a theft perpetrated on divine nature, to believe that man commanded fire freely…[it] present a painful, irresolvable conflict between god and man…Humanity achieves the best and highest of which it is capable by committing an offense and must in turn accept the consequences of this, namely the whole flood of suffering and tribulations which the offended heavenly powers <i>must</i> in turn visit upon the human race…a bitter thought, but one which, thanks to the dignity it accords to the offense, contrasts strangely with the Semitic myth of the Fall, where the origin of evil was seen to lie in curiosity, mendacious presence, openness to seduction, lasciviousness.<sup class=\"fnref\"><a href=\"#fn91\" id=\"fnref91\">91</a></sup>"
+},
+{
+"type": "p",
+"html": "In experiencing tragic arts, evil makes sense to us. It avails itself as an intuitive, aesthetic phenomenon, and with it, we can <i>affirm</i> it as a necessary consequence of existence. It stands in direct opposition to the Socratic view, which said of Homeric tragedy that “it is best to keep quiet as far as possible in calamity and not to chafe and repine, because we cannot know what is really good and evil in such things and it advantages us nothing to take them hard, and nothing in mortal life is worthy of great concern.”<sup class=\"fnref\"><a href=\"#fn92\" id=\"fnref92\">92</a></sup> But through Nietzsche, we offer: is the significance of “what is good” and “what is evil” or any other ethical, normative matter not how we consider their immediate salience in our lives, by how they are <i>actually</i> and <i>phenomenally</i> avail themselves to us, in “mortal life”? Would it not be empty, baseless, contentless for the normative questions we seek to answer without that intuitive, aesthetic availability and intelligibility? By “keeping quiet as far as possible” about those calamities and tragedies, we fail to recognize the “<i>justification</i> of the evil in human life, both in the sense of human guilt and in the sense of suffering brought about it” by abstracting it to a general concept to be rejected.<sup class=\"fnref\"><a href=\"#fn93\" id=\"fnref93\">93</a></sup> Yet, evil, or anything else that has the weight to matter in our lives, is not a self-sufficient concept. We cannot grasp what evil (or any concept, for that matter) is without the primacy and possibility of its intelligibility revealed to us by an <i>establishment</i> of it through aesthetic phenomena like the Promethean world, in a sort of existential hylomorphism. Only then may we latch onto and intuit any possibility of “undertaking, accomplishing, evincing, interrogating, considering, discussing, determining” that forms the ethical understanding of evil.<sup class=\"fnref\"><a href=\"#fn94\" id=\"fnref94\">94</a></sup> As such, by <i>seeing</i> the entire phenomenon of tragedy as an ethical necessity, without having to suffer through it ourselves, its possibility <i>comes to be</i> for an individual. Only then, is an “ethical foundation” for normative action possible, resting on the experience of Promethean tragedy itself, where:",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "the curse in the nature of things…the contradiction at the heart of the world, presents itself to [us] as as mixture of different worlds, e.g. a divine and a human one, each of which taken individually, is in the right, but which, as one world existing alongside another, must suffer for the fact of its individuation. The heroic urge of the individual to reach out towards the general, the attempt to cross the fixed boundaries of individuation, and the desire to become the <i>one</i> world-being itself, all this leads him to suffer in his own person the primal contradiction hidden within the things of this world, i.e. he commits a great wrong and suffers.<sup class=\"fnref\"><a href=\"#fn95\" id=\"fnref95\">95</a></sup>"
+},
+{
+"type": "p",
+"html": "And through <i>Prometheus Bound</i>, this necessity and inevitability of human life most immediately grips us. In this way, with tragedy, we may interpret life and world as an aesthetic phenomenon, and through that interpretation, life’s pointless conditions can make actual normative sense to us.",
+"cls": "cont"
+},
+{
+"type": "p",
+"html": "So, through tragedy, we may interpret and understand the senseless contradictions present in our lives and an intelligible phenomenon. But another implication from the direct grasp of those absurdities of life is that “only by myth can all the energies of fantasy and Apolline dream be saved from aimless meandering.”<sup class=\"fnref\"><a href=\"#fn96\" id=\"fnref96\">96</a></sup> Worlds are not independently existing things. Contradiction does not just happen on its own. The Apolline cannot stand alone. The Dionysiac cannot stand alone. And in tragic myth, we realize the implications of the interdependence, in which the terrifying unity, the direct oneness of the Dionysiac is simultaneously an origin and end for the determinateness of the Apolline, the depiction of any individuation and meaningful values to be had; they are together a unitary ethical necessity, the latter “saved from aimless meandering.” In experiencing the Promethean myth in front of our eyes, we see man learning from Prometheus and raising himself",
+"cls": ""
+},
+{
+"type": "blockquote",
+"html": "to Titanic heights, [he] fights for and achieves his own culture, and he compels the gods to ally themselves with him because in his very own wisdom, he holds existence and its limits in his hands. But the most wonderful thing…about Prometheus…is its profound, Aeschylean tendency to justice: the limitless suffering of the bold ‘individual’ on the one hand, and the extreme plight of the gods…on the other; the power of both these worlds of suffering…all this recalls in the strongest possible way the centre and principal tenet of the Aeschylean view of the world, which sees <i>moira</i>, as eternal justice, throned above gods and men.<sup class=\"fnref\"><a href=\"#fn97\" id=\"fnref97\">97</a></sup>"
+},
+{
+"type": "p",
+"html": "A heroic virtue in aesthetic manifestation. Yet, that pursuit is virtuous precisely because of the suffering that Prometheus had endured to undertake, pain that we also recognize is equally justified in its infliction upon the heroic Titan by Zeus. In that immediate struggle is how we make sense of a normative value as necessarily contingent for it to gain intelligibility, as Promethean virtue only comes mean anything if we experience and bear the consequence of Promethean evil. In other words, any value and transcendence presumes there is something to be valued and transcended in the first place, the possibility of which opens itself through the struggle-experience of an artistic phenomenon like the entire Promethean tragedy.",
+"cls": "cont"
+},
+{
+"type": "p",
+"html": "Thus, to be able to live through the deepest sufferings and most blissful joys, to act meaningfully at all, we must be able to justify and <i>affirm</i>, the entirety of the struggle—that fundamental interplay of the Apolline and Dionysiac, for <i>nothing comes to be purely on its own accord</i>. Validity is contingent and its universality is unattainable, for “all understanding, by its very nature, is limited and conditional” and its disclosure, “gained by a struggle.”<sup class=\"fnref\"><a href=\"#fn98\" id=\"fnref98\">98</a></sup> The unique ontology of the tragic arts is found in its unconcealment of this precondition of life. We must and ought to embrace life’s finite struggle as an intuitive and aesthetic precondition for any normativity at all—to be able to strive for those respectable, profound, Promethean ambitions, however impermanent the value may be. Because the other option is to lament and object to existence in the first place—an untenable position for the human who finds himself immediately thrown into a simultaneously familiar and mysterious world that has existed and will exist, in all its indifference to any single life on its own.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "As such, the myth of Prometheus, by suffering in “this Titanic urge to become, as it were, the Atlas<sup class=\"fnref\"><a href=\"#fn99\" id=\"fnref99\">99</a></sup> of all single beings, and to carry them on a broad back higher and higher…the common feature shared by the Promethean and the Dionysiac,” simultaneously shows that such a “world of agony is needed in order to compel the individual to generate the releasing and redemptive vision… to sit calmly in his rocking boat in the midst of the sea.”<sup class=\"fnref\"><a href=\"#fn100\" id=\"fnref100\">100</a></sup> In this way, in considering tragic art, we come face to face with the possibility of latching onto any ethical or normative value at all as a sensible orientation, a cathexis of sorts, which reveals the pre-conditional necessity of struggle. Stability, or a foundation to build normative guides to life in the first place, does not come from the domination of the Apolline in its individuated, rational semblance or a subjection to the Dionysiac’s primordial unity. Stability is found in the struggle itself, and experiencing tragic art—works like <i>Prometheus Bound,</i> <i>Oedipus Rex,</i> <i>Faust, Au Hasard Balthazar</i> and <i>Oppenheimer—</i>gives us an aesthetic phenomenon to justify the meaningfulness of that struggle with. Seldom would anyone say that the struggle endured by those characters bore no meaning or value. By primally understanding our lives through such art, we are shown the profound necessity and indispensability of every moment in life, in a way that drives us to say that the experience in its entirety was not merely valid, nor good, nor bad, nor inspiring, nor evil, nor pleasurable—but all at once <i>worth it</i>. A worthy life. Is that not the original Socratic aim—to find a life worth living? So, there is no universally valid and abstractly “right” or “wrong” ways of life that the tragic art tells us to accept or reject, as a Platonic Dialogue might afford. It rather reveals a primal sense of salience, through which the most cynical of cynics and the most optimistic of optimists can affirm the necessary phenomenon of tragic struggle, to make sense of and justify each of their values in life with—a chance to “have a rest from ourselves by looking at and down at ourselves and, from an artistic distance, laughing <i>at</i> ourselves or crying <i>at</i> ourselves.”<sup class=\"fnref\"><a href=\"#fn101\" id=\"fnref101\">101</a></sup> In this manner, tragic art “lets truth originate” in its disclosure that “ ‘all that exists is just and unjust and equally justified in both respects.’",
+"cls": ""
+},
+{
+"type": "p",
+"html": "<i>Such is my world: and what a world!</i> ”<sup class=\"fnref\"><a href=\"#fn102\" id=\"fnref102\">102</a></sup>",
+"cls": ""
+},
+{
+"type": "h2",
+"html": "Concluding Remarks"
+},
+{
+"type": "p",
+"html": "It is important to mention that Nietzsche himself changed his mind on the power of tragedy to be the single antidote to the “sickness and exhaustion” that he originally describes. His early appeals to Wagner’s operas to engender a <i>rebirth</i> of tragedy eventually dissipated after expressing disappointment in the evolution of the German composer’s life choices and music, culminating in Nietzsche’s essay, <i>Nietzsche contra Wagner</i>. It is then natural to wonder whether tragedy can still have a bearing on our modern lives, given that Greek tragedies were written over two millennia ago.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "But given that the diagnosis of the “problem of science” finds its origins in Socrates whose edifices we have been etched into the very foundations of Western intellectual history, it only makes sense to grapple with the mode of understanding that he sought to directly counter with his scientific dialectics—a mode that Nietzsche called <i>tragic knowledge</i>. We have to ask: exactly <i>why</i> and <i>how</i> did we get to a point where the <i>Republic</i> and the <i>Phaedo</i> along with modern texts like <i>Meditations</i> <i>on First Philosophy</i>, <i>Leviathan</i>, and the <i>Two Treatises of Government</i> are necessary representatives of “classic” higher education that we are told has a fundamental bearing on modern life, yet an ambition to understand art, tragedy, and literature is often pushed to the peripheries of importance, considered to be <i>electives</i> that are not <i>necessary</i> to life? In this way, it seems Socrates has succeeded in establishing as a universal truth that “the part of us that leads us to dwell in memory on our suffering and impels us to lamentation, and cannot get enough of that sort of thing, is the irrational and idle part of us, the <i>associate of cowardice</i>.”<sup class=\"fnref\"><a href=\"#fn103\" id=\"fnref103\">103</a></sup> But was Prometheus a coward? We usually consider him as quite the opposite. Thus, instead of helping us make sense of the suffering that exists, the Socratic, scientific ideal merely abstracts art into a mere sensory phenomenon to be inherently avoided in favor of the universal reasonableness of scientific truth. Within the scientific view of valuation, the irrationalities of the Dionysiac “are senseless element[s] that cannot distinguish the greater from the less, but calls the same thing now one, now the other.”<sup class=\"fnref\"><a href=\"#fn104\" id=\"fnref104\">104</a></sup> Yet, the powerful forces of the Dionysiac are an inevitable part of life, constituting an integral part of being. And faith in the universal validity of science hardly affords us any direction or strength to actively make sense of how any normative possibility in our lives may not only come to matter but also <i>cease</i> to matter—a possibility that tragic art, on the other hand, can disclose. And in this way, scientific attachment is not the promise of eternal, unconditional truths for life, but evasion from the possible collapse of the meaningfulness of life—another symptom of <i>nihilism</i>.",
+"cls": ""
+},
+{
+"type": "p",
+"html": "Our aversion to this fragility and finitude has set modern life on a commitment to stave off the complete breakdown of meaningful values with “unconditional philosophical edifices.” Yet, this itself is an assumption that there is some unconditional consensus to be reached by the universe in the first place; it presumes a possibility of meaning, a mattering in our lives to be had or not had. That collective, ironclad adherence to modern democratic ideals and values for our lives—to achieve a uniform understanding of life, to strive for happiness (whatever that means), to distract from suffering, to maximize collective benefit, to achieve a state of prosaic, material comfort as the ultimate goal in life—finds its ancient grounding in Socrates and re-strengthens itself during the modern Enlightenment in the thought of Locke, Hobbes, Smith, Mill, Hume. Yet, that exact evasion of the inescapable, fragile impermanence of life—the collapse of any meaning at all—may be blinding us to the possibility of any new, higher ambition for life through its struggle, one where the individual’s will to live a finite life is not so easily lost in the face of its inevitable disturbances. The easily attained seldom establishes a “magnificent tension of spirit” that we can “shoot at the furthest goals” with.<sup class=\"fnref\"><a href=\"#fn105\" id=\"fnref105\">105</a></sup> Thus, in considering the birth and death of tragedy through Nietzsche, we may reveal a fundamental understanding of a worthy life that has lost itself in the scientific paradigm that originated from the Socratism of Ancient Greece. That Nietzschean understanding beckons us to affirm the precondition of life that",
+"cls": ""
+},
+{
+"type": "p",
+"html": "“<i>The struggle itself towards the heights is enough to fill a man’s heart. One must imagine Sisyphus happy.</i>”<sup class=\"fnref\"><a href=\"#fn106\" id=\"fnref106\">106</a></sup>",
+"cls": "center"
+}
+],
+"notes": [
+[
+"1",
+"Plato, <i>Apology,</i> 38a5–6"
+],
+[
+"2",
+"Plato, <i>Apology</i>, 22d"
+],
+[
+"3",
+"Plato, <i>Republic</i>, Book X, 605a-b"
+],
+[
+"4",
+"Plato, <i>Republic</i>, Book X, 603b"
+],
+[
+"5",
+"Plato, <i>Republic,</i> Book III, 395c-d"
+],
+[
+"6",
+"Nietzsche, <i>The Birth of Tragedy</i>, §18 (Cambridge University Press, 1999)"
+],
+[
+"7",
+"Plato, <i>Phaedo,</i> 66b"
+],
+[
+"8",
+"Plato, <i>Phaedo,</i> 66a"
+],
+[
+"9",
+"It is true that in the <i>Symposium</i>, Socrates considers a love of philosophy to be possible due to the appreciation of physical beauty (embodied by Eros), and that, through Diotima’s Ladder, it leads to pursuit of the Forms. Thus, there are more esoteric readings of the importance of the body &amp; senses in Socratic philosophy. However, the way I read Socrates in this paper is the conventional, widely-accepted interpretation of the body-soul division, that the soul holds <i>primacy</i> over physical, bodily considerations in the pursuit of philosophy (especially as presented in the <i>Republic</i> and <i>Phaedo</i>)."
+],
+[
+"10",
+"Plato, <i>Republic</i>, Book X, 607b"
+],
+[
+"11",
+"Nietzsche, <i>The Birth of Tragedy</i>, §5"
+],
+[
+"12",
+"Nietzsche, <i>An Attempt at Self-Criticism</i>, §6 (Cambridge University Press, 1999)"
+],
+[
+"13",
+"Ibid."
+],
+[
+"14",
+"Nietzsche, <i>An Attempt at Self-Criticism</i>, §1"
+],
+[
+"15",
+"Plato, <i>Republic</i>, Book X, 603b"
+],
+[
+"16",
+"I refer to this word as defined in Carl Jung’s <i>Psychological Types</i>: “a peculiar kind of psychological connection with objects, and consists in the fact that the subject cannot clearly distinguish himself from the object but is bound to it by a direct relationship which amounts to partial identity.”"
+],
+[
+"17",
+"Nietzsche, <i>An Attempt at Self-Criticism</i>, §1"
+],
+[
+"18",
+"Nietzsche, <i>An Attempt at Self-Criticism</i>, §1"
+],
+[
+"19",
+"Nietzsche, <i>An Attempt at Self-Criticism</i>, §2"
+],
+[
+"20",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 187 (Part of <i>Basic Writings from Being and Time (1927) to The Task of Thinking (1964)</i> from Harper Perennial Modern Thought, 2008)"
+],
+[
+"21",
+"Nietzsche, <i>The Birth of Tragedy</i>, §15"
+],
+[
+"22",
+"Nietzsche, <i>The Birth of Tragedy</i>, §10"
+],
+[
+"23",
+"Nietzsche, <i>The Birth of Tragedy</i>, §15"
+],
+[
+"24",
+"Nietzsche, <i>An Attempt at Self-Criticism</i>, §1"
+],
+[
+"25",
+"Nietzsche, <i>Beyond Good and Evil</i>, Preface (Cambridge University Press, 2002)"
+],
+[
+"26",
+"Nietzsche, <i>An Attempt at Self-Criticism</i>, §2"
+],
+[
+"27",
+"Nietzsche, <i>The Gay Science</i>, §107 (Cambridge University Press, 2001)"
+],
+[
+"28",
+"Nietzsche, <i>The Birth of Tragedy</i>, §1"
+],
+[
+"29",
+"Ibid."
+],
+[
+"30",
+"Socrates appeals to the Forms as the highest, truest existence in the <i>Republic, Phaedo,</i> and <i>Symposium</i>. Kant appeals to the notions quoted in his essay, <i>What is Enlightenment</i> and his presentation of the Categorical Imperative in the <i>Groundwork of the Metaphysics of Morals</i> and the <i>Critique of Practical Reason</i>."
+],
+[
+"31",
+"Nietzsche, <i>The Birth of Tragedy</i>, §1 &amp; §2"
+],
+[
+"32",
+"Nietzsche, <i>An Attempt at Self-Criticism</i>, §7"
+],
+[
+"33",
+"Nietzsche, <i>The Birth of Tragedy</i>, §1"
+],
+[
+"34",
+"Ibid."
+],
+[
+"35",
+"Ibid."
+],
+[
+"36",
+"Ibid."
+],
+[
+"37",
+"Ibid."
+],
+[
+"38",
+"Ibid."
+],
+[
+"39",
+"Ibid."
+],
+[
+"40",
+"Ibid."
+],
+[
+"41",
+"Ibid."
+],
+[
+"42",
+"Ibid. Nietzsche is quoting Schopenhauer’s <i>World as Will and Representation</i>, I, p. 416."
+],
+[
+"43",
+"Ibid."
+],
+[
+"44",
+"Nietzsche, <i>An Attempt at Self-Criticism</i>, §4"
+],
+[
+"45",
+"Nietzsche, <i>The Birth of Tragedy</i>, §1"
+],
+[
+"46",
+"Ibid, footnote 26"
+],
+[
+"47",
+"Ibid."
+],
+[
+"48",
+"Ibid."
+],
+[
+"49",
+"Friedrich Schiller, <i>Ode to Joy</i>, sung by a chorus in Beethoven’s Ninth Symphony."
+],
+[
+"50",
+"Nietzsche, <i>The Gay Science</i>, §107"
+],
+[
+"51",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 145"
+],
+[
+"52",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 164"
+],
+[
+"53",
+"Nietzsche, <i>The Birth of Tragedy</i>, §1"
+],
+[
+"54",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 167"
+],
+[
+"55",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 161"
+],
+[
+"56",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 169"
+],
+[
+"57",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 170"
+],
+[
+"58",
+"Heidegger, <i>Being and Time</i>, Division I, Chapter II, ¶12 (pp. 81-82) (Harper Perennial Modern Thought, 2008)"
+],
+[
+"59",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 170"
+],
+[
+"60",
+"Nietzsche, <i>The Birth of Tragedy</i>, §7"
+],
+[
+"61",
+"Nietzsche, <i>The Gay Science</i>, §346"
+],
+[
+"62",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 177"
+],
+[
+"63",
+"Nietzsche, <i>The Birth of Tragedy</i>, §18"
+],
+[
+"64",
+"Heidegger’s famous way of referring to human existence, or the kind of being that is unique to humans."
+],
+[
+"65",
+"Heidegger, <i>Being and Time</i>, Division I, Chapter II, ¶12 (pp. 78)"
+],
+[
+"66",
+"Heidegger, <i>Being and Time</i>, Division I, Chapter II, ¶12 (pp. 81)"
+],
+[
+"67",
+"Ibid."
+],
+[
+"68",
+"Heidegger, <i>Being and Time</i>, Division I, Chapter II, ¶12 (pp. 84)"
+],
+[
+"69",
+"Nietzsche, <i>The Birth of Tragedy</i>, §5"
+],
+[
+"70",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 196"
+],
+[
+"71",
+"Nietzsche, <i>The Birth of Tragedy</i>, §5 (emphasis added)"
+],
+[
+"72",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 176"
+],
+[
+"73",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 177"
+],
+[
+"74",
+"Nietzsche, <i>The Birth of Tragedy</i>, §11"
+],
+[
+"75",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 177; Nietzsche, <i>The Birth of Tragedy</i>, §11"
+],
+[
+"76",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 177"
+],
+[
+"77",
+"Nietzsche, <i>The Birth of Tragedy</i>, §11"
+],
+[
+"78",
+"Heidegger, <i>Being and Time</i>, Division I, Chapter IV, ¶27 (p. 165)"
+],
+[
+"79",
+"Nietzsche, <i>The Birth of Tragedy</i>, §7"
+],
+[
+"80",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 188"
+],
+[
+"81",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 201, 202"
+],
+[
+"82",
+"Nietzsche, <i>The Birth of Tragedy</i>, §2"
+],
+[
+"83",
+"Heidegger, <i>Being and Time</i>, Division I, Chapter II, ¶12 (pp. 83)"
+],
+[
+"84",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 170"
+],
+[
+"85",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 182; Nietzsche, <i>The Birth of Tragedy</i>, §10"
+],
+[
+"86",
+"Nietzsche, <i>The Birth of Tragedy</i>, §10 &amp; §12"
+],
+[
+"87",
+"Nietzsche, <i>The Birth of Tragedy</i>, §4"
+],
+[
+"88",
+"Heidegger, <i>The Origin of the Work of Art,</i> p. 186"
+],
+[
+"89",
+"The Cambridge University Press (1999) Edition of <i>The Birth of Tragedy</i> defines this word as “Literally ‘little Greek’ i.e. shifty character; stock figure of contempt in Roman literature.”"
+],
+[
+"90",
+"Heidegger, <i>Being and Time</i>, Division I, Chapter IV, ¶27 (p. 165); Nietzsche, <i>The Birth of Tragedy</i>, §11"
+],
+[
+"91",
+"Nietzsche, <i>The Birth of Tragedy</i>, §9"
+],
+[
+"92",
+"Plato, <i>Republic</i>, Book X, 604b-c"
+],
+[
+"93",
+"Nietzsche, <i>The Birth of Tragedy</i>, §9"
+],
+[
+"94",
+"Heidegger, <i>Being and Time</i>, Division I, Chapter II, ¶12 (pp. 83)"
+],
+[
+"95",
+"Nietzsche, <i>The Birth of Tragedy</i>, §9"
+],
+[
+"96",
+"Nietzsche, <i>The Birth of Tragedy</i>, §23"
+],
+[
+"97",
+"Nietzsche, <i>The Birth of Tragedy</i>, §9"
+],
+[
+"98",
+"Nietzsche, <i>The Birth of Tragedy</i>, §18; Heidegger, <i>Being and Time</i>, Division I, Chapter IV, ¶27 (p. 165)"
+],
+[
+"99",
+"The Titan Atlas, Prometheus’s brother, is condemned in Greek mythology to eternally bear the weight of the heavens on his shoulders."
+],
+[
+"100",
+"Nietzsche, <i>The Birth of Tragedy</i>, §4"
+],
+[
+"101",
+"Nietzsche, <i>The Gay Science</i>, §107"
+],
+[
+"102",
+"Nietzsche, <i>The Birth of Tragedy</i>, §9; the last sentence is Nietzsche quoting the 409th line of Goethe’s <i>Faust</i>, Part One"
+],
+[
+"103",
+"Plato, <i>Republic</i>, Book X, 604d-e"
+],
+[
+"104",
+"Plato, <i>Republic</i>, Book X, 605c"
+],
+[
+"105",
+"Nietzsche, <i>Beyond Good and Evil</i>, Preface"
+],
+[
+"106",
+"Camus, <i>The Myth of Sisyphus</i>, the last line of the book"
+]
+]
+}
