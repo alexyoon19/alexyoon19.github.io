@@ -19,7 +19,7 @@ BIO = [
     'I am a master’s student in financial engineering at Columbia University. I am currently studying how AI’s physical, energy, and human footprints show in prices, economic growth, and ethical meaning.',
     'Before Columbia, I spent two years in energy &amp; infrastructure investment banking at DC Advisory, where I was part of the first analyst cohort in the NY team. Prior to that, I studied economics, philosophy, and physics at the University of Chicago. There I wrote honors theses in two fields: one with Esteban Rossi-Hansberg on the pricing of renewable energy certificates, and one with Robert Pippin on art as a ground of normativity. You can find them <a href="research.html">here</a>. I completed my high school education at Choate Rosemary Hall, where I graduated cum laude and was editor-in-chief of the school newspaper.',
     ('Most of what I am intellectually interested in sits at the intersection of physics, philosophy, and economics. '
-     'Some of my creative interests include film, instrumental music, hermeneutic theory, and tragic art (from Greek tragedy to paintings to opera). '
+     'Some of my creative interests include film, music, hermeneutic theory, and tragic art (from Greek tragedy to paintings to opera). '
      'You can find some of my informal writings on these topics <a href="working.html#blog">here</a>.'),
 ]
 
