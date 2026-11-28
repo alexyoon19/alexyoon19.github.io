@@ -17,8 +17,10 @@ NAV = [
 
 BIO = [
     'I am a master’s student in financial engineering at Columbia University. I am currently studying how AI’s physical, energy, and human footprints show in prices, economic growth, and ethical meaning.',
-    'Before Columbia, I spent two years in energy &amp; infrastructure investment banking at DC Advisory, where I was part of the first analyst cohort in the NY team. Prior to that, I studied economics, philosophy, and physics at the University of Chicago. There I wrote honors theses in two fields: one with Esteban Rossi-Hansberg on the pricing of renewable energy certificates, and one with Robert Pippin on art as a ground of normativity. I completed my high school education at Choate Rosemary Hall, where I graduated cum laude and was editor-in-chief of the school newspaper.',
-    'Most of what I am currently interested in sits at the intersection of physics, philosophy, and economics.',
+    'Before Columbia, I spent two years in energy &amp; infrastructure investment banking at DC Advisory, where I was part of the first analyst cohort in the NY team. Prior to that, I studied economics, philosophy, and physics at the University of Chicago. There I wrote honors theses in two fields: one with Esteban Rossi-Hansberg on the pricing of renewable energy certificates, and one with Robert Pippin on art as a ground of normativity. You can find them <a href="research.html">here</a>. I completed my high school education at Choate Rosemary Hall, where I graduated cum laude and was editor-in-chief of the school newspaper.',
+    ('Most of what I am intellectually interested in sits at the intersection of physics, philosophy, and economics. '
+     'Some of my creative interests include film, instrumental music, hermeneutic theory, and tragic art (from Greek tragedy to paintings to opera). '
+     'You can find some of my informal writings on these topics <a href="working.html#blog">here</a>.'),
 ]
 
 # last paragraph of the bio
@@ -57,6 +59,10 @@ HONORS = [
 
 SHOW_FIGURE = False     # Figure 1 (the three-field map) is switched off for now; set True to bring it back
 
+# The blog is split by topic, in this order. Each blog entry in WORKS carries one of these keys as 'topic'.
+BLOG_TOPICS = [('philosophy', 'Philosophy'), ('film', 'Film'), ('music', 'Music')]
+BLOG_INTRO = 'Essays and shorter notes on philosophy, film and music, written between 2021 and 2024.'
+
 # 'slug' set -> the entry links to writings/<slug>.html once that page exists.
 # 'mix' is the field mix (physics, economics, philosophy) used only by Figure 1.
 WORKS = [
@@ -88,34 +94,52 @@ WORKS = [
      'desc': 'An essay on AI and the question of meaning.',
      'meta': 'Working paper in philosophy. In progress.'},
     # blog: 'title' is the public title; 'subtitle' is the essay's original title, shown on its page
-    {'n': 7, 'group': 'blog', 'slug': 'existential-kant', 'mix': (0.0, 0.0, 1.0),
+    {'n': 7, 'group': 'blog', 'topic': 'philosophy', 'slug': 'existential-kant', 'mix': (0.0, 0.0, 1.0),
      'title': 'Why Should Duty Move Us?',
      'subtitle': 'The Existential Kant: Making Sense of Pure Practical Reason',
      'desc': 'How an unconditional moral law can matter to a finite being, read through Kant’s accounts of moral feeling and the sublime.',
      'meta': 'March 2024',
      'page_meta': 'Essay for Robert Pippin’s seminar Kant on Moral Meaning, University of Chicago. March 2024.'},
-    {'n': 8, 'group': 'blog', 'slug': 'everlasting-masquerade', 'mix': (0.0, 0.0, 1.0),
+    {'n': 8, 'group': 'blog', 'topic': 'philosophy', 'slug': 'everlasting-masquerade', 'mix': (0.0, 0.0, 1.0),
      'title': 'Nietzsche’s Masks',
      'subtitle': 'An Everlasting Masquerade: The Implications of Nietzschean Esotericism and Solitude',
      'desc': 'On masks, solitude and esoteric writing in Nietzsche’s <i>Beyond Good and Evil</i>.',
      'meta': 'May 2023',
      'page_meta': 'Essay for a seminar with Robert Pippin, University of Chicago. May 2023.'},
-    {'n': 9, 'group': 'blog', 'slug': 'philosophical-schism', 'mix': (0.0, 0.0, 1.0),
+    {'n': 9, 'group': 'blog', 'topic': 'philosophy', 'slug': 'philosophical-schism', 'mix': (0.0, 0.0, 1.0),
      'title': 'Facing Death, Alone or Together',
      'subtitle': 'Philosophical Schism: Heidegger and Hegel’s Competing Visions of Full Authentic Existence in the Face of Death',
      'desc': 'A Hegelian objection to Heidegger’s account of authenticity in <i>Being and Time</i>, and the reply Heidegger could give.',
      'meta': 'March 2023',
      'page_meta': 'Essay for Robert Pippin’s seminar on Heidegger’s <i>Being and Time</i>, University of Chicago. March 2023.'},
-    {'n': 10, 'group': 'blog', 'slug': 'power-in-film', 'mix': (0.0, 0.0, 1.0),
+    {'n': 10, 'group': 'blog', 'topic': 'film', 'slug': 'power-in-film', 'mix': (0.0, 0.0, 1.0),
      'title': 'Can a Film Be Sublime?',
      'subtitle': 'Power in Film: How Kant’s Theory of Fine Art Allows Cinema to Exhibit Dynamical Sublimity',
      'desc': 'An argument from Kant’s theory of fine art that cinema can exhibit the dynamical sublime, the experience of overwhelming power.',
      'meta': 'June 2022',
      'page_meta': 'Essay for a course with Eliza Little, University of Chicago. June 2022.'},
-    {'n': 11, 'group': 'blog', 'slug': 'balthazar', 'mix': (0.0, 0.0, 1.0),
+    {'n': 11, 'group': 'blog', 'topic': 'film', 'slug': 'balthazar', 'mix': (0.0, 0.0, 1.0),
      'title': 'Why a Donkey’s Death Is Beautiful',
      'subtitle': 'Choreographing the Cinematograph Instead of Actors: How Balthazar’s Death Scene Derives its Beauty and Significance',
      'desc': 'Why the final scene of Bresson’s <i>Au hasard Balthazar</i> reads as beautiful, argued from his own theory of film.',
      'meta': '2022',
      'page_meta': 'Essay, University of Chicago. 2022.'},
+    {'n': 12, 'group': 'blog', 'topic': 'film', 'slug': 'peace-and-panic', 'mix': (0.0, 0.0, 1.0),
+     'title': 'The Same Morning, Without the Sound',
+     'subtitle': 'Ruben’s Peace and Panic: How <i>Sound of Metal</i> Communicates Character Emotion and Psychological Tone for the Audience by Blending Cinematography and Sound Design',
+     'desc': 'How <i>Sound of Metal</i> plays one morning routine twice, with its sounds and then without them, so that the audience loses its hearing along with Ruben.',
+     'meta': 'Short essay, November 2021',
+     'page_meta': 'Short essay for Film and the Moving Image, an introductory course in cinema and media studies, University of Chicago. November 2021.'},
+    {'n': 13, 'group': 'blog', 'topic': 'film', 'slug': 'pursuit-of-a-seagull', 'mix': (0.0, 0.0, 1.0),
+     'title': 'The Only One Who Moves',
+     'subtitle': 'Randall’s Pursuit of a Seagull: The Potency that Lies Within a Character’s Movement as an Emotional Mechanism',
+     'desc': 'Why a death scene of under a minute in Don Hertzfeldt’s <i>It’s Such a Beautiful Day</i> weighs so much: in the memory, only Randall and the seagull he chases ever move.',
+     'meta': 'Short essay, October 2021',
+     'page_meta': 'Short essay for Film and the Moving Image, an introductory course in cinema and media studies, University of Chicago. October 2021.'},
+    {'n': 14, 'group': 'blog', 'topic': 'music', 'slug': 'cruda-amarilli', 'mix': (0.0, 0.0, 1.0),
+     'title': 'An Echo With No Listener',
+     'subtitle': 'Music in “Cruda Amarilli”: Critical in Fully Understanding its Essential Themes and Emotions',
+     'desc': 'How dissonance and echoing repetition in Monteverdi’s madrigal “Cruda Amarilli” carry the anguish and hopelessness that the poem’s words only name.',
+     'meta': 'Short note, January 2022',
+     'page_meta': 'Short note for Introduction to Western Art Music, University of Chicago. January 2022.'},
 ]

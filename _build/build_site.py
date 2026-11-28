@@ -117,6 +117,7 @@ def listing_page(w):
 
 
 # ---------------------------------------------------------------- Figure 1
+BLOG = [w for w in C.WORKS if w['group'] == 'blog']
 V = {'phil': (220.0, 52.0), 'phys': (60.0, 329.1), 'econ': (380.0, 329.1)}
 RING = {'phys': '#5188cd', 'econ': '#4f9453', 'phil': '#c46761'}
 
@@ -148,8 +149,8 @@ def figure_one():
         lab = label or str(w['n'])
         shape = (f'<rect x="{x - 19:.1f}" y="{y - 11:.1f}" width="38" height="22" rx="11"/>' if wide
                  else f'<circle cx="{x:.1f}" cy="{y:.1f}" r="11"/>')
-        title = w['title'] if not wide else 'Blog: essays in philosophy and film'
-        desc = w['desc'] if not wide else 'Five essays, 2022–2024.'
+        title = w['title'] if not wide else 'Blog: essays in philosophy, film and music'
+        desc = w['desc'] if not wide else f'{len(BLOG)} essays, 2021–2024.'
         if wide:
             href = 'working.html#blog'; link = 'See the essays'; state = ''
         return (f'<a class="{cls}" href="{href}" data-title="{html.escape(title, quote=True)}" data-desc="{html.escape(desc, quote=True)}" '
@@ -159,7 +160,7 @@ def figure_one():
     W = {w['n']: w for w in C.WORKS}
     toks = []
     toks.append(tok(W[2], V['phil'][0] - 21, V['phil'][1]))
-    toks.append(tok(W[7], V['phil'][0] + 20, V['phil'][1], label='7–11', wide=True))
+    toks.append(tok(BLOG[0], V['phil'][0] + 20, V['phil'][1], label=f"{BLOG[0]['n']}–{BLOG[-1]['n']}", wide=True))
     toks.append(tok(W[1], V['econ'][0] - 13, V['econ'][1]))
     toks.append(tok(W[3], V['econ'][0] + 12, V['econ'][1]))
     for n in (4, 5, 6):
@@ -222,9 +223,14 @@ def page_published():
 
 def page_working():
     wp = ''.join(work_item(w) for w in C.WORKS if w['group'] == 'working')
-    blog = ''.join(work_item(w) for w in C.WORKS if w['group'] == 'blog')
+    # the blog is split by topic, in the order set by BLOG_TOPICS; within a topic, entries keep their order in WORKS
+    blog = ''
+    for key, label in C.BLOG_TOPICS:
+        items = ''.join(work_item(w) for w in C.WORKS if w['group'] == 'blog' and w['topic'] == key)
+        if items:
+            blog += f'<h3 class="topic" id="{key}">{label}</h3>\n<ol class="works{PLAIN}">{items}</ol>\n'
     body = (f'<h1>Working papers &amp; blog</h1>\n<h2>Working papers</h2>\n<ol class="works{PLAIN}">{wp}</ol>\n'
-            f'<h2 id="blog">Blog</h2>\n<p class="meta intro">Essays in philosophy and film, written between 2022 and 2024.</p>\n<ol class="works{PLAIN}">{blog}</ol>')
+            f'<h2 id="blog">Blog</h2>\n<p class="meta intro">{C.BLOG_INTRO}</p>\n{blog}')
     write('working.html', shell('working.html', 'Working papers & blog', body, 'working.html', 'Work in progress and essays by Alex Yoon.'))
 
 
